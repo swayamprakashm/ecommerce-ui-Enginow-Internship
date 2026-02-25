@@ -11,9 +11,8 @@ This project serves as the user interface for a shopping platform with features 
 
 <p align="center">
   <a href="https://ecommerce-ui-enginow.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=web" alt="Live Demo" />
   </a>
-</p>
 
 ---
 
